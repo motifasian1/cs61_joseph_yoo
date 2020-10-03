@@ -1,0 +1,2 @@
+Will free 0x61d000000090
+MEMORY BUG test025.cc:11: invalid free of pointer 0x61d000000090, double free

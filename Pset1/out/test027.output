@@ -1,0 +1,1 @@
+MEMORY BUG: test026.cc:10: invalid free of pointer 0x621000000cc8, not allocated
